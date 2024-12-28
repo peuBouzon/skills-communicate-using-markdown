@@ -7,3 +7,6 @@
 ```java
   System.out.println("Hello World");
 ```
+
+- [x] AWS Cloud Practitioner
+- [ ] GitHub Foundations
